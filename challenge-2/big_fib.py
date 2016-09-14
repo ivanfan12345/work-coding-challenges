@@ -9,10 +9,8 @@ def fibonacci_iteratively(nth):
     result = 0
     if nth == 0:
         print "N:" , nth , " Fib(", int(nth) ,") = " , Nminus2 , " Length: " , len(str(Nminus2))
-        return 0
     if nth == 1:
         print "N:" , nth , " Fib(", int(nth) ,") = " , Nminus1 , " Length: " , len(str(Nminus1))
-        return 1  
     else:
         i = 0
         print "N: 0 Fib( 0 ) = " , Nminus2 , " Length: " , len(str(Nminus2))  
