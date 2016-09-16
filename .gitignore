@@ -2,3 +2,11 @@
 challenge-1/ivan/seed.txt
 
 challenge-1/ivan/randomchars.txt
+
+challenge-2/ivan/exe
+
+*.o
+
+*.cc
+
+*.a
